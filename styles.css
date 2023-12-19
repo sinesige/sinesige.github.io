@@ -4,8 +4,7 @@ h1 {
     font-family: 'Courier New';
     padding:2;
     margin:20px;
-    width: 100%;
-    font-size:7em;
+    font-size:5em;
     color:black;
 }
 
@@ -13,8 +12,8 @@ h2 {
     font-family: 'Courier New';
     color: black;
     margin:1px;
-    font-size:3em;
-    text-align:center;
+    font-size:2em;
+    text-align:left;
     margin-left:20px;
 
 }
@@ -94,5 +93,11 @@ header {
 img {
     margin-top:50px;
     margin-left:30px;
-    margin-right:50px
+    margin-right:50px;
+    max-width: 100%
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto
 }
