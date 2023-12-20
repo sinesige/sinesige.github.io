@@ -18,24 +18,6 @@ h2 {
 
 }
 
-p{
-    font-family:'comic sans ms';
-    margin-top:50px;
-    margin-bottom:50px;
-    margin-left: 10%;
-    width:80%;
-    text-align:center;
-    color:black
-}
-
-body {
-    background-color: white;
-    text-align: center;
-    font-family: Arial;
-    padding: 0;
-    margin: 1; 
-}
-
 h3 {
     margin:2px;
     color:black;
@@ -81,6 +63,24 @@ h5 {
     width: 100%;
     margin-left: 10px
     
+}
+
+p{
+    font-family:'comic sans ms';
+    margin-top:50px;
+    margin-bottom:50px;
+    margin-left: 10%;
+    width:80%;
+    text-align:center;
+    color:black
+}
+
+body {
+    background-color: white;
+    text-align: center;
+    font-family: Arial;
+    padding: 0;
+    margin: 1; 
 }
 
 header {
