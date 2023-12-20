@@ -12,7 +12,7 @@ h2 {
     font-family: 'Courier New';
     color: black;
     margin:1px;
-    font-size:2em;
+    font-size:3em;
     text-align:left;
     margin-left:20px;
 
@@ -58,7 +58,10 @@ h5 {
 }
 
 #intro {
-    background-color: white
+    background-color: white;
+    width: 100%;
+    text-align: center;
+
   
 }
 
