@@ -3,17 +3,15 @@ h1 {
     text-align:center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     padding:2;
-    margin:2px;
+    margin:1%;
     font-size:10em;
     color:black;
 }
 
-
-
 h2 {
     font-family: 'Courier New';
     color: black;
-    margin:1px;
+    margin:1%;
     font-size:3em;
     text-align:center;
 
@@ -22,7 +20,7 @@ h2 {
 h3 {
     margin:2px;
     color:black;
-    margin-left:20px;
+    margin-left:10%;
     font-family:'Courier New';
     font-size: 2em
 }
@@ -31,8 +29,8 @@ h4 {
     color:black;
     font-family:'Courier New';
     font-size: 1.3em;  
-    margin-top: 20px;
-    margin-bottom: 10px;
+    margin-top: 10%;
+    margin-bottom: 5%;
 
 }
 
@@ -66,8 +64,8 @@ h5 {
 
 p{
     font-family:'comic sans ms';
-    margin-top:50px;
-    margin-bottom:50px;
+    margin-top:10%;
+    margin-bottom:10%;
     margin-left: 10%;
     width:80%;
     text-align:center;
