@@ -110,6 +110,6 @@ img {
 /* Media query for smaller screens */
 @media only screen and (max-width: 600px) {
     h1 {
-        font-size: 14px;
+        font-size: 20em;
     }
 }
