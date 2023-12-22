@@ -14,8 +14,7 @@ h2 {
     margin:1%;
     font-size:3em;
     text-align:center;
-
-}
+    -webkit-text-size-adjust: auto; /*Default value, allows text resizing*/
 
 h3 {
     margin:2px;
