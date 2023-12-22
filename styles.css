@@ -101,7 +101,8 @@ img {
 }
 
 .container {
-    margin: 5vw;
+    margin-top: 5vw;
     padding: 2% 5%;
+    width: 100%
 }
 
