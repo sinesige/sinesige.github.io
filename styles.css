@@ -29,14 +29,14 @@ h3 {
 }
 
 h4 {
-    color:whitesmoke;
+    color:white;
     font-family: sans-serif;
     font-weight: 100;
     font-size: 1.3em;  
     margin-top: 5%;
     margin-right: 100px;
     text-align: left;
-    opacity: 0.5;
+    opacity: 0.9;
 }
 
 h5 {
@@ -50,8 +50,8 @@ h5 {
 
 .odd {
     background-color: #222021;
-    margin-bottom:20px;
-    margin-top:300px;
+    margin-bottom:10%;
+    margin-top:50%;
     width: 100%;
     background: rgba(34, 32, 33, 0.85);
 }
