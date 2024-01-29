@@ -98,7 +98,7 @@ header {
 /* Apply to all images */
 img {
     
-    max-width: 100%;
+    max-width: 200%;
     height: auto;
     float: left;
     margin-top: 100%;
