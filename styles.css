@@ -78,6 +78,7 @@ p{
     text-align: left;
     color:black;
     font-size: 130%;
+    -webkit-text-size-adjust: auto; /*Default value, allows text resizing*/
 }
 
 body {
