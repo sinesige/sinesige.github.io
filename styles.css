@@ -26,7 +26,7 @@ h3 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 2em;
     opacity: 1;
-    margin-botto: 0%;
+    margin-bottom: 0%;
     -webkit-text-size-adjust: auto; /*Default value, allows text resizing*/
 
 }
@@ -101,9 +101,9 @@ img {
     max-width: 100%;
     height: auto;
     float: left;
-    margin-top: 50%;
+    margin-top: 100%;
     margin-bottom: 3%;
-    -webkit-text-size-adjust: auto; /*Default value, allows text resizing*/
+    
 }
 .container {
     margin: 5vw;
