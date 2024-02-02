@@ -42,7 +42,7 @@ h4 {
     text-align: left;
     opacity: 0.9;
     width: 900px;
-    max-width: 100%;
+    max-width: 200%;
     -webkit-text-size-adjust: auto; /*Default value, allows text resizing*/
 } 
 
