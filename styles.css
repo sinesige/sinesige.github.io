@@ -72,8 +72,8 @@ h5 {
 
 p{
     font-family: sans-serif;
-    margin-top:0vw;
-    margin-bottom: 2vw;
+    margin-top:5vw;
+    margin-bottom: 5vw;
     margin-left: 0%;
     max-width:100vw;
     text-align: left;
@@ -100,10 +100,10 @@ header {
 /* Apply to all images */
 img {
     
-    max-width: 100%;
+    max-width: 130%;
     height: auto;
     float: left;
-    margin-top: 34vw;
+    margin-top: 40vw;
    
     
 }
