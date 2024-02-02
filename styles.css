@@ -100,10 +100,10 @@ header {
 /* Apply to all images */
 img {
     
-    max-width: 130%;
+    max-width: 200%;
     height: auto;
     float: left;
-    margin-top: 40vw;
+    margin-top: 100vw;
    
     
 }
