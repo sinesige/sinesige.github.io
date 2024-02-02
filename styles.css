@@ -100,7 +100,7 @@ header {
 /* Apply to all images */
 img {
     
-    max-width: 200%;
+    max-width: 100%;
     height: auto;
     float: left;
     margin-top: 40%;
@@ -112,4 +112,19 @@ img {
     padding: 2% 5%;
     width: 100%
 }
+
+/* Default styles for all devices */
+
+@media (min-width: 768px) {
+    /* Styles for devices with a width of 768 pixels and larger (tablets and desktops) */
+  }
+  
+  @media (min-width: 992px) {
+    /* Styles for devices with a width of 992 pixels and larger (larger desktops) */
+  }
+  
+  @media (min-width: 1200px) {
+    /* Styles for devices with a width of 1200 pixels and larger (extra-large desktops) */
+  }
+  
 
