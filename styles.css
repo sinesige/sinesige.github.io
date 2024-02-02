@@ -75,7 +75,8 @@ p{
     text-align: left;
     color:black;
     font-size: 150%;
-    width: auto;
+    width: 900px;
+    max-width: 100%
     
 }
 
