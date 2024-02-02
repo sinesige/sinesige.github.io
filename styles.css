@@ -41,7 +41,8 @@ h4 {
     margin-right: auto;
     text-align: left;
     opacity: 0.9;
-    max-width: 400px;
+    width: 900px;
+    max-width: 100%;
     -webkit-text-size-adjust: auto; /*Default value, allows text resizing*/
 } 
 
